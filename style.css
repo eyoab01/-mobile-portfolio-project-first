@@ -130,6 +130,7 @@ a {
     font-size: 20px;
   }
 }
+
 @media screen and (min-width: 1200px) {
   nav {
     padding: 15px 150px;
@@ -145,5 +146,5 @@ a {
     margin-right: 170px;
     max-width: 600px;
     font-family: var(--mainF);
-  }
+  } 
 }
