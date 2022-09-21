@@ -1,5 +1,4 @@
-# https://github.com/eyoab01/Microverse-project-mobfinish
-#  https://github.com/eyoab01/mobile-portfolio-project-final
+# https://github.com/eyoab01/-mobile-portfolio-project-first
 This page is about my portfolio as a software developer
 
 ## Built With
@@ -17,14 +16,14 @@ To get a local copy up and running follow these simple steps.
 ## Prerequisites
 Install code editor to be able to run the commands in the terminal. VSCode 
 ## Setup
- download the linters folder and copy it to your project You can clone the project through git clone https://github.com/eyoab01/mobile-portfolio-project-final
+ download the linters folder and copy it to your project You can clone the project through git clone https://github.com/eyoab01/-mobile-portfolio-project-first
 
 ## Install
 Install the linters folder to your project. Install the fontawesome for icons in the project 
 
 ## Deployment link
 
-My portifolio website can be viewed at:  https://github.com/eyoab01/mobile-portfolio-project-final
+My portifolio website can be viewed at:  [https://github.com/eyoab01/-mobile-portfolio-project-first]
 
 
 ### Authors
